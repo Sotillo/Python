@@ -1,0 +1,89 @@
+{
+	"autocomplete-python": {
+		"useKite": false
+	},
+	"color-tabs": {
+		"backgroundStyle": "none",
+		"borderSize": 3,
+		"borderStyle": "top"
+	},
+	"core": {
+		"disabledPackages": [
+			"autoprefixer",
+			"highlight-line",
+			"smart-tab-name",
+			"git-plus",
+			"minimap"
+		],
+		"telemetryConsent": "no",
+		"themes": [
+			"one-dark-ui",
+			"newton-dark-syntax"
+		]
+	},
+	"editor": {
+		"fontSize": 12,
+		"scrollPastEnd": true
+	},
+	"exception-reporting": {
+		"userId": "200b844c-0c09-cd16-0201-8e5016740554"
+	},
+	"highlight-line": {},
+	"linter": {
+		"showErrorPanel": false
+	},
+	"minimap": {
+		"displayMinimapOnLeft": true
+	},
+	"platformio-ide-terminal": {
+		"style": {
+			"animationSpeed": 5,
+			"theme": "linux"
+		}
+	},
+	"save-workspace-Workspaces": {
+		"Default": {
+			"panes": [
+				{
+					"tabs": [
+						"/Users/Paul/Desktop/RealPython/flasktaskr/project/templates/tasks.html",
+						"/Users/Paul/Desktop/RealPython/flasktaskr/project/_config.py",
+						"/Users/Paul/Desktop/RealPython/flasktaskr/project/forms.py",
+						"/Users/Paul/Desktop/RealPython/flasktaskr/project/run.py",
+						"/Users/Paul/Desktop/RealPython/flasktaskr/project/views.py",
+						"atom://config"
+					],
+					"orientation": "vertical"
+				},
+				{
+					"tabs": [
+						"/Users/Paul/Desktop/RealPython/flasktaskr/project/models.py"
+					],
+					"orientation": "vertical"
+				}
+			],
+			"projectPaths": [
+				"/Users/Paul/Desktop/RealPython"
+			]
+		}
+	},
+	"sync-settings": {},
+	"terminal-plus": {
+		"core": {
+			"autoRunCommand": "python3"
+		}
+	},
+	"tree-view": {
+		"hideVcsIgnoredFiles": true
+	},
+	"vertical-tabs": {
+		"setToRightSide": true,
+		"tabBarWidth": 9
+	},
+	"wakatime-hidden": {
+		"lastInit": 1482186920
+	},
+	"welcome": {
+		"showOnStartup": false
+	}
+}
