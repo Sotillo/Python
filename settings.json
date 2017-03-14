@@ -2,6 +2,9 @@
 	"autocomplete-python": {
 		"useKite": false
 	},
+	"autohide-tree-view": {
+		"minWidth": 12
+	},
 	"color-tabs": {
 		"backgroundStyle": "none",
 		"borderSize": 3,
@@ -32,6 +35,7 @@
 	"linter": {
 		"showErrorPanel": false
 	},
+	"linter-flake8": {},
 	"minimap": {
 		"displayMinimapOnLeft": true
 	},
@@ -46,24 +50,95 @@
 			"panes": [
 				{
 					"tabs": [
-						"/Users/Paul/Desktop/RealPython/flasktaskr/project/templates/tasks.html",
-						"/Users/Paul/Desktop/RealPython/flasktaskr/project/_config.py",
-						"/Users/Paul/Desktop/RealPython/flasktaskr/project/forms.py",
-						"/Users/Paul/Desktop/RealPython/flasktaskr/project/run.py",
-						"/Users/Paul/Desktop/RealPython/flasktaskr/project/views.py",
-						"atom://config"
+						"/Users/Paul/Desktop/RealPython/django-quick-start/hello_world_project/hello_world_project/urls.py",
+						"/Users/Paul/Desktop/RealPython/django-quick-start/hello_world_project/hello_world_project/settings.py",
+						"/Users/Paul/Desktop/RealPython/django-quick-start/hello_world_project/manage.py",
+						"/Users/Paul/Desktop/RealPython/django-quick-start/hello_world_project/hello_world/admin.py",
+						"/Users/Paul/Desktop/RealPython/django-quick-start/hello_world_project/hello_world/apps.py",
+						"/Users/Paul/Desktop/RealPython/django-quick-start/hello_world_project/hello_world/models.py",
+						"/Users/Paul/Desktop/RealPython/django-quick-start/hello_world_project/hello_world/tests.py",
+						"/Users/Paul/Desktop/RealPython/django-quick-start/hello_world_project/hello_world/urls.py",
+						"/Users/Paul/Desktop/RealPython/django-quick-start/hello_world_project/hello_world/views.py"
+					]
+				}
+			],
+			"projectPaths": [
+				"/Users/Paul/Desktop/repos/tree-lines",
+				"/Users/Paul/Desktop/RealPython"
+			]
+		},
+		"DomainHold": {
+			"panes": [
+				{
+					"tabs": [
+						"/Users/Paul/Desktop/DOCKMANN /gridbox layout/DomainHolder/index.html",
+						"/Users/Paul/Desktop/DOCKMANN /gridbox layout/DomainHolder/style.css"
 					],
-					"orientation": "vertical"
+					"orientation": "horizontal"
 				},
 				{
 					"tabs": [
-						"/Users/Paul/Desktop/RealPython/flasktaskr/project/models.py"
+						"html-preview://editor/360"
 					],
-					"orientation": "vertical"
+					"orientation": "horizontal"
+				}
+			],
+			"projectPaths": [
+				"/Users/Paul/Desktop/RealPython",
+				"/Users/Paul/Desktop"
+			]
+		},
+		"RP-django": {
+			"panes": [
+				{
+					"tabs": [
+						"/Users/Paul/Desktop/RealPython/django-bloggy/bloggy_project/bloggy_project/urls.py",
+						"/Users/Paul/Desktop/RealPython/django-bloggy/bloggy_project/bloggy_project/settings.py",
+						"/Users/Paul/Desktop/RealPython/django-bloggy/bloggy_project/blog/models.py",
+						"/Users/Paul/Desktop/RealPython/django-bloggy/bloggy_project/requirements.txt",
+						"/Users/Paul/Desktop/RealPython/django-bloggy/bloggy_project/blog/tests.py",
+						"/Users/Paul/Desktop/RealPython/django-bloggy/bloggy_project/blog/admin.py",
+						"/Users/Paul/Desktop/RealPython/django-bloggy/bloggy_project/blog/views.py",
+						"/Users/Paul/Desktop/RealPython/django-bloggy/bloggy_project/templates/blog/post.html",
+						"/Users/Paul/Desktop/RealPython/django-bloggy/bloggy_project/templates/_base.html",
+						"/Users/Paul/Desktop/RealPython/django-bloggy/bloggy_project/templates/blog/index.html",
+						"/Users/Paul/Desktop/RealPython/django-bloggy/bloggy_project/blog/urls.py"
+					]
 				}
 			],
 			"projectPaths": [
 				"/Users/Paul/Desktop/RealPython"
+			]
+		},
+		"minofbrew": {
+			"panes": [
+				{
+					"tabs": [
+						"/Users/Paul/Desktop/DOCKMANN/gridbox-layout/Ministry-of-Brew/alpha/minofbrew/home/views.py",
+						"/Users/Paul/Desktop/DOCKMANN/gridbox-layout/Ministry-of-Brew/alpha/minofbrew/home/urls.py",
+						"/Users/Paul/Desktop/DOCKMANN/gridbox-layout/Ministry-of-Brew/alpha/minofbrew/minofbrew/__init__.py",
+						"/Users/Paul/Desktop/DOCKMANN/gridbox-layout/Ministry-of-Brew/alpha/minofbrew/minofbrew/settings.py",
+						"/Users/Paul/Desktop/DOCKMANN/gridbox-layout/Ministry-of-Brew/alpha/minofbrew/minofbrew/urls.py",
+						"/Users/Paul/Desktop/DOCKMANN/gridbox-layout/Ministry-of-Brew/alpha/minofbrew/minofbrew/wsgi.py",
+						"/Users/Paul/Desktop/DOCKMANN/gridbox-layout/Ministry-of-Brew/alpha/minofbrew/manage.py"
+					]
+				}
+			],
+			"projectPaths": [
+				"/Users/Paul/Desktop/DOCKMANN/gridbox-layout/Ministry-of-Brew"
+			]
+		},
+		"stock1": {
+			"panes": [
+				{
+					"tabs": [
+						"/Users/Paul/Desktop/datasci/stock1/stockdata.py"
+					]
+				}
+			],
+			"projectPaths": [
+				"/Users/Paul/Desktop/RealPython",
+				"/Users/Paul/Desktop"
 			]
 		}
 	},
@@ -75,6 +150,12 @@
 	},
 	"tree-view": {
 		"hideVcsIgnoredFiles": true
+	},
+	"tree-view-background": {
+		"imagePaths": [
+			"https://s5.postimg.org/5t58qj4yf/IMG_376660.jpg"
+		],
+		"opacity": 0.05
 	},
 	"vertical-tabs": {
 		"setToRightSide": true,
