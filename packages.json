@@ -393,7 +393,7 @@
 	},
 	{
 		"name": "linter-jshint",
-		"version": "3.1.1"
+		"version": "3.1.2"
 	},
 	{
 		"name": "linter-python-pep8",
@@ -414,6 +414,10 @@
 	{
 		"name": "minimap",
 		"version": "4.28.2"
+	},
+	{
+		"name": "multiline-tab",
+		"version": "0.2.0"
 	},
 	{
 		"name": "newton-dark-syntax",

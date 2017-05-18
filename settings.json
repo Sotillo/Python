@@ -35,6 +35,7 @@
 	"highlight-line": {},
 	"linter": {},
 	"linter-flake8": {},
+	"linter-ui-default": {},
 	"minimap": {
 		"disablePythonDocLinks": true,
 		"displayMinimapOnLeft": true
@@ -66,41 +67,80 @@
 		"MT": {
 			"panes": [
 				{
-					"type": "paneAxis",
-					"data": [
-						{
-							"type": "pane",
-							"data": {
-								"tabs": [
-									"/Users/Paul/Desktop/Programming/Django/MiamiTunnel/userfeed/urls.py",
-									"/Users/Paul/Desktop/Programming/Django/MiamiTunnel/userfeed/models.py",
-									"/Users/Paul/Desktop/Programming/Django/MiamiTunnel/userfeed/static/css/header/style.css"
-								],
-								"orientation": "vertical"
-							}
-						},
-						{
-							"type": "pane",
-							"data": {
-								"tabs": [
-									"/Users/Paul/Desktop/Programming/Django/MiamiTunnel/userfeed/views.py"
-								],
-								"orientation": "vertical"
-							}
-						}
-					],
-					"orientation": "vertical"
+					"type": "pane",
+					"data": {
+						"tabs": [
+							"/Users/Paul/Desktop/Programming/Django/MiamiTunnel/home/admin.py",
+							"/Users/Paul/Desktop/Programming/Django/MiamiTunnel/home/models.py",
+							"/Users/Paul/Desktop/Programming/Django/MiamiTunnel/home/urls.py",
+							"/Users/Paul/Desktop/Programming/Django/MiamiTunnel/home/views.py",
+							"/Users/Paul/Desktop/Programming/Django/MiamiTunnel/templates/index.html",
+							"/Users/Paul/Desktop/Programming/Django/MiamiTunnel/static/style.css",
+							"/Users/Paul/Desktop/Programming/Django/MiamiTunnel/MT/settings.py",
+							"/Users/Paul/Desktop/Programming/Django/MiamiTunnel/MT/urls.py"
+						]
+					}
+				}
+			],
+			"projectPaths": [
+				"/Users/Paul/Desktop/Programming"
+			]
+		},
+		"RP-bloggy1": {
+			"panes": [
+				{
+					"type": "pane",
+					"data": {
+						"tabs": [
+							"/Users/Paul/Desktop/Programming/Django/RP/django-bloggy/bloggy_project/blog/models.py",
+							"/Users/Paul/Desktop/Programming/Django/RP/django-bloggy/bloggy_project/blog/admin.py",
+							"/Users/Paul/Desktop/Programming/Django/RP/django-bloggy/bloggy_project/blog/views.py",
+							"/Users/Paul/Desktop/Programming/Django/RP/django-bloggy/bloggy_project/blog/urls.py"
+						],
+						"orientation": "horizontal"
+					}
 				},
 				{
 					"type": "pane",
 					"data": {
 						"tabs": [
-							"/Users/Paul/Desktop/Programming/Django/MiamiTunnel/templates/userfeed/header.html",
-							"/Users/Paul/Desktop/Programming/Django/MiamiTunnel/templates/userfeed/home.html",
-							"/Users/Paul/Desktop/Programming/Django/MiamiTunnel/MT/settings.py",
-							"/Users/Paul/Desktop/Programming/Django/MiamiTunnel/MT/urls.py"
+							"/Users/Paul/Desktop/Programming/Django/RP/django-bloggy/bloggy_project/bloggy_project/urls.py",
+							"/Users/Paul/Desktop/Programming/Django/RP/django-bloggy/bloggy_project/templates/blog/index.html",
+							"/Users/Paul/Desktop/Programming/Django/RP/django-bloggy/bloggy_project/bloggy_project/settings.py"
 						],
 						"orientation": "horizontal"
+					}
+				}
+			],
+			"projectPaths": [
+				"/Users/Paul/Desktop/Programming"
+			]
+		},
+		"temp": {
+			"panes": [
+				{
+					"type": "pane",
+					"data": {
+						"tabs": [
+							"/Users/Paul/Desktop/Programming/Django/Temp/tempblog/admin.py",
+							"/Users/Paul/Desktop/Programming/Django/Temp/tempblog/models.py",
+							"/Users/Paul/Desktop/Programming/Django/Temp/tempblog/urls.py",
+							"/Users/Paul/Desktop/Programming/Django/Temp/tempblog/views.py",
+							"/Users/Paul/Desktop/Programming/Django/Temp/tempsite/settings.py",
+							"/Users/Paul/Desktop/Programming/Django/Temp/tempsite/urls.py"
+						],
+						"orientation": "vertical"
+					}
+				},
+				{
+					"type": "pane",
+					"data": {
+						"tabs": [
+							"/Users/Paul/Desktop/Programming/Django/Temp/templates/tempblog/index.html",
+							"/Users/Paul/Desktop/Programming/Django/Temp/static/style.css",
+							"/Users/Paul/Desktop/Programming/Django/Temp/templates/tempblog/blogfeed.html"
+						],
+						"orientation": "vertical"
 					}
 				}
 			],
@@ -115,9 +155,7 @@
 			"autoRunCommand": "python3"
 		}
 	},
-	"tree-view": {
-		"hideVcsIgnoredFiles": true
-	},
+	"tree-view": {},
 	"tree-view-background": {
 		"imagePaths": [
 			"https://s5.postimg.org/5t58qj4yf/IMG_376660.jpg"
