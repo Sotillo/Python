@@ -15,9 +15,11 @@
 			"autoprefixer",
 			"highlight-line",
 			"smart-tab-name",
-			"git-plus",
 			"double-click-tree-view",
-			"vertical-tabs"
+			"tree-lines",
+			"indent-guide-improved",
+			"git-time-machine",
+			"minimap"
 		],
 		"telemetryConsent": "no",
 		"themes": [
@@ -26,7 +28,6 @@
 		]
 	},
 	"editor": {
-		"fontSize": 12,
 		"scrollPastEnd": true
 	},
 	"exception-reporting": {
@@ -74,11 +75,23 @@
 							"/Users/Paul/Desktop/Programming/Django/MiamiTunnel/home/models.py",
 							"/Users/Paul/Desktop/Programming/Django/MiamiTunnel/home/urls.py",
 							"/Users/Paul/Desktop/Programming/Django/MiamiTunnel/home/views.py",
-							"/Users/Paul/Desktop/Programming/Django/MiamiTunnel/templates/index.html",
-							"/Users/Paul/Desktop/Programming/Django/MiamiTunnel/static/style.css",
 							"/Users/Paul/Desktop/Programming/Django/MiamiTunnel/MT/settings.py",
-							"/Users/Paul/Desktop/Programming/Django/MiamiTunnel/MT/urls.py"
-						]
+							"/Users/Paul/Desktop/Programming/Django/MiamiTunnel/MT/urls.py",
+							"/Users/Paul/Desktop/Programming/Django/MiamiTunnel/templates/main/index.html",
+							"/Users/Paul/Desktop/Programming/Django/MiamiTunnel/templates/main/home.html",
+							"/Users/Paul/Desktop/Programming/Django/MiamiTunnel/templates/main/includes/post1.html",
+							"/Users/Paul/Desktop/Programming/Django/MiamiTunnel/templates/main/includes/post2.html"
+						],
+						"orientation": "horizontal"
+					}
+				},
+				{
+					"type": "pane",
+					"data": {
+						"tabs": [
+							"/Users/Paul/Desktop/Programming/Django/MiamiTunnel/static/style.css"
+						],
+						"orientation": "horizontal"
 					}
 				}
 			],
@@ -109,6 +122,23 @@
 							"/Users/Paul/Desktop/Programming/Django/RP/django-bloggy/bloggy_project/bloggy_project/settings.py"
 						],
 						"orientation": "horizontal"
+					}
+				}
+			],
+			"projectPaths": [
+				"/Users/Paul/Desktop/Programming"
+			]
+		},
+		"Scrape": {
+			"panes": [
+				{
+					"type": "pane",
+					"data": {
+						"tabs": [
+							"/Users/Paul/Desktop/Programming/Scrape/wikiSpider/wikiSpider/spiders/articleSpider.py",
+							"/Users/Paul/Desktop/Programming/Scrape/wikiSpider/wikiSpider/items.py",
+							"/Users/Paul/Desktop/Programming/Scrape/wikicrawl.py"
+						]
 					}
 				}
 			],
@@ -148,6 +178,13 @@
 				"/Users/Paul/Desktop/Programming"
 			]
 		}
+	},
+	"split-diff": {
+		"diffWords": true,
+		"ignoreWhitespace": true,
+		"leftEditorColor": "red",
+		"rightEditorColor": "green",
+		"scrollSyncType": "Vertical + Horizontal"
 	},
 	"sync-settings": {},
 	"terminal-plus": {

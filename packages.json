@@ -1,23 +1,27 @@
 [
 	{
 		"name": "about",
-		"version": "1.7.5"
+		"version": "1.7.6"
 	},
 	{
 		"name": "aligner",
-		"version": "0.22.3"
+		"version": "1.2.1"
 	},
 	{
 		"name": "aligner-css",
-		"version": "1.2.0"
+		"version": "1.2.1"
+	},
+	{
+		"name": "aligner-javascript",
+		"version": "1.1.0"
 	},
 	{
 		"name": "aligner-python",
-		"version": "1.0.1"
+		"version": "1.1.0"
 	},
 	{
 		"name": "archive-view",
-		"version": "0.63.0"
+		"version": "0.63.2"
 	},
 	{
 		"name": "atom-dark-syntax",
@@ -61,19 +65,19 @@
 	},
 	{
 		"name": "autocomplete-atom-api",
-		"version": "0.10.0"
+		"version": "0.10.1"
 	},
 	{
 		"name": "autocomplete-css",
-		"version": "0.15.1"
+		"version": "0.16.1"
 	},
 	{
 		"name": "autocomplete-html",
-		"version": "0.7.2"
+		"version": "0.7.3"
 	},
 	{
 		"name": "autocomplete-plus",
-		"version": "2.34.2"
+		"version": "2.35.3"
 	},
 	{
 		"name": "autocomplete-python",
@@ -93,11 +97,11 @@
 	},
 	{
 		"name": "autosave",
-		"version": "0.24.0"
+		"version": "0.24.2"
 	},
 	{
 		"name": "background-tips",
-		"version": "0.26.1"
+		"version": "0.27.0"
 	},
 	{
 		"name": "base16-tomorrow-dark-theme",
@@ -111,15 +115,15 @@
 	},
 	{
 		"name": "bookmarks",
-		"version": "0.44.2"
+		"version": "0.44.3"
 	},
 	{
 		"name": "bracket-matcher",
-		"version": "0.85.3"
+		"version": "0.85.5"
 	},
 	{
 		"name": "busy-signal",
-		"version": "1.4.1"
+		"version": "1.4.3"
 	},
 	{
 		"name": "color-picker",
@@ -131,11 +135,11 @@
 	},
 	{
 		"name": "command-palette",
-		"version": "0.40.3"
+		"version": "0.40.4"
 	},
 	{
 		"name": "dalek",
-		"version": "0.2.0"
+		"version": "0.2.1"
 	},
 	{
 		"name": "darkpython-syntax",
@@ -144,11 +148,11 @@
 	},
 	{
 		"name": "deprecation-cop",
-		"version": "0.56.2"
+		"version": "0.56.7"
 	},
 	{
 		"name": "dev-live-reload",
-		"version": "0.47.0"
+		"version": "0.47.1"
 	},
 	{
 		"name": "double-click-tree-view",
@@ -161,23 +165,23 @@
 	},
 	{
 		"name": "encoding-selector",
-		"version": "0.23.2"
+		"version": "0.23.3"
 	},
 	{
 		"name": "exception-reporting",
-		"version": "0.41.2"
+		"version": "0.41.4"
 	},
 	{
 		"name": "file-icons",
-		"version": "2.1.4"
+		"version": "2.1.7"
 	},
 	{
 		"name": "find-and-replace",
-		"version": "0.207.3"
+		"version": "0.208.3"
 	},
 	{
 		"name": "fuzzy-finder",
-		"version": "1.5.0"
+		"version": "1.5.8"
 	},
 	{
 		"name": "git-commit",
@@ -185,15 +189,19 @@
 	},
 	{
 		"name": "git-diff",
-		"version": "1.3.3"
+		"version": "1.3.5"
 	},
 	{
 		"name": "git-plus",
-		"version": "7.8.0"
+		"version": "7.9.3"
 	},
 	{
 		"name": "git-status",
 		"version": "0.3.4"
+	},
+	{
+		"name": "git-time-machine",
+		"version": "1.5.9"
 	},
 	{
 		"name": "go-to-line",
@@ -201,7 +209,7 @@
 	},
 	{
 		"name": "grammar-selector",
-		"version": "0.49.3"
+		"version": "0.49.4"
 	},
 	{
 		"name": "highlight-line",
@@ -213,11 +221,11 @@
 	},
 	{
 		"name": "image-view",
-		"version": "0.61.1"
+		"version": "0.61.2"
 	},
 	{
 		"name": "incompatible-packages",
-		"version": "0.27.2"
+		"version": "0.27.3"
 	},
 	{
 		"name": "indent-guide-improved",
@@ -233,7 +241,7 @@
 	},
 	{
 		"name": "keybinding-resolver",
-		"version": "0.36.3"
+		"version": "0.38.0"
 	},
 	{
 		"name": "language-c",
@@ -245,7 +253,7 @@
 	},
 	{
 		"name": "language-coffee-script",
-		"version": "0.48.5"
+		"version": "0.48.6"
 	},
 	{
 		"name": "language-csharp",
@@ -253,7 +261,7 @@
 	},
 	{
 		"name": "language-css",
-		"version": "0.42.1"
+		"version": "0.42.2"
 	},
 	{
 		"name": "language-gfm",
@@ -289,7 +297,7 @@
 	},
 	{
 		"name": "language-less",
-		"version": "0.31.0"
+		"version": "0.32.0"
 	},
 	{
 		"name": "language-make",
@@ -309,7 +317,7 @@
 	},
 	{
 		"name": "language-php",
-		"version": "0.37.5"
+		"version": "0.38.0"
 	},
 	{
 		"name": "language-property-list",
@@ -321,7 +329,7 @@
 	},
 	{
 		"name": "language-ruby",
-		"version": "0.70.5"
+		"version": "0.71.0"
 	},
 	{
 		"name": "language-ruby-on-rails",
@@ -329,7 +337,7 @@
 	},
 	{
 		"name": "language-sass",
-		"version": "0.58.0"
+		"version": "0.59.0"
 	},
 	{
 		"name": "language-shellscript",
@@ -373,11 +381,11 @@
 	},
 	{
 		"name": "line-ending-selector",
-		"version": "0.6.2"
+		"version": "0.6.3"
 	},
 	{
 		"name": "link",
-		"version": "0.31.2"
+		"version": "0.31.3"
 	},
 	{
 		"name": "linter",
@@ -401,15 +409,15 @@
 	},
 	{
 		"name": "linter-ui-default",
-		"version": "1.2.4"
+		"version": "1.6.0"
 	},
 	{
 		"name": "markdown-preview",
-		"version": "0.159.7"
+		"version": "0.159.12"
 	},
 	{
 		"name": "metrics",
-		"version": "1.2.1"
+		"version": "1.2.5"
 	},
 	{
 		"name": "minimap",
@@ -431,7 +439,7 @@
 	},
 	{
 		"name": "notifications",
-		"version": "0.66.2"
+		"version": "0.67.2"
 	},
 	{
 		"name": "one-dark-syntax",
@@ -440,7 +448,7 @@
 	},
 	{
 		"name": "one-dark-ui",
-		"version": "1.9.2",
+		"version": "1.10.3",
 		"theme": "ui"
 	},
 	{
@@ -450,7 +458,7 @@
 	},
 	{
 		"name": "one-light-ui",
-		"version": "1.9.2",
+		"version": "1.10.3",
 		"theme": "ui"
 	},
 	{
@@ -459,11 +467,11 @@
 	},
 	{
 		"name": "package-generator",
-		"version": "1.1.0"
+		"version": "1.1.1"
 	},
 	{
 		"name": "platformio-ide-terminal",
-		"version": "2.5.0"
+		"version": "2.5.1"
 	},
 	{
 		"name": "print-atom",
@@ -471,7 +479,7 @@
 	},
 	{
 		"name": "project-manager",
-		"version": "3.3.4"
+		"version": "3.3.5"
 	},
 	{
 		"name": "python-debugger",
@@ -479,7 +487,7 @@
 	},
 	{
 		"name": "python-indent",
-		"version": "1.0.2"
+		"version": "1.0.3"
 	},
 	{
 		"name": "python-tools",
@@ -495,11 +503,11 @@
 	},
 	{
 		"name": "script",
-		"version": "3.14.1"
+		"version": "3.15.0"
 	},
 	{
 		"name": "settings-view",
-		"version": "0.248.0"
+		"version": "0.249.4"
 	},
 	{
 		"name": "smart-tab-name",
@@ -507,7 +515,7 @@
 	},
 	{
 		"name": "snippets",
-		"version": "1.1.1"
+		"version": "1.1.4"
 	},
 	{
 		"name": "solarized-dark-syntax",
@@ -525,11 +533,11 @@
 	},
 	{
 		"name": "spell-check",
-		"version": "0.71.3"
+		"version": "0.71.4"
 	},
 	{
 		"name": "status-bar",
-		"version": "1.8.5"
+		"version": "1.8.7"
 	},
 	{
 		"name": "statusbar-datetime",
@@ -537,11 +545,11 @@
 	},
 	{
 		"name": "styleguide",
-		"version": "0.49.3"
+		"version": "0.49.6"
 	},
 	{
 		"name": "symbols-view",
-		"version": "0.115.2"
+		"version": "0.115.5"
 	},
 	{
 		"name": "sync-settings",
@@ -549,7 +557,7 @@
 	},
 	{
 		"name": "tabs",
-		"version": "0.104.2"
+		"version": "0.106.0"
 	},
 	{
 		"name": "timecop",
@@ -561,39 +569,31 @@
 	},
 	{
 		"name": "tree-view",
-		"version": "0.215.1"
+		"version": "0.217.1"
 	},
 	{
 		"name": "tree-view-autoresize",
-		"version": "1.6.0"
+		"version": "2.1.0"
 	},
 	{
 		"name": "tree-view-background",
-		"version": "0.4.2"
-	},
-	{
-		"name": "tree-view-breadcrumb",
-		"version": "0.8.1"
+		"version": "0.4.3"
 	},
 	{
 		"name": "tree-view-copy-relative-path",
-		"version": "1.1.0"
+		"version": "1.2.0"
 	},
 	{
 		"name": "tree-view-git-status",
-		"version": "1.3.1"
+		"version": "1.4.0"
 	},
 	{
 		"name": "update-package-dependencies",
-		"version": "0.11.0"
-	},
-	{
-		"name": "vertical-tabs",
-		"version": "1.0.3"
+		"version": "0.12.0"
 	},
 	{
 		"name": "welcome",
-		"version": "0.36.2"
+		"version": "0.36.3"
 	},
 	{
 		"name": "whitespace",
@@ -606,6 +606,6 @@
 	},
 	{
 		"name": "wrap-guide",
-		"version": "0.40.0"
+		"version": "0.40.1"
 	}
 ]
