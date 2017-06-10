@@ -564,10 +564,6 @@
 		"version": "0.36.0"
 	},
 	{
-		"name": "tree-lines",
-		"version": "1.0.1"
-	},
-	{
 		"name": "tree-view",
 		"version": "0.217.1"
 	},
@@ -578,6 +574,10 @@
 	{
 		"name": "tree-view-background",
 		"version": "0.4.3"
+	},
+	{
+		"name": "tree-view-breadcrumb",
+		"version": "0.8.1"
 	},
 	{
 		"name": "tree-view-copy-relative-path",
